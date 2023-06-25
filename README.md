@@ -1,9 +1,9 @@
-# (WIP) Disable Keyboard Based Player Controls on YouTube 
+# Disable Keyboard Based Player Controls on YouTube 
 
 ## What?
 
-This is a Firefox extension which disables the all keyboard player control 
-shortcuts on YouTube, except Space, Left Arrow, and Right Arrow.
+This is a ~~Firefox extension~~ userscript which disables the all keyboard
+player control shortcuts on YouTube, except Space, Left Arrow, and Right Arrow.
 
 ## Why?
 
